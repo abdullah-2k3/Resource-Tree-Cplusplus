@@ -1,0 +1,9 @@
+1, Ahmed, C:2, C++:3, Java:1
+2, Ayesha, C:2, C++:2, Assembly:2
+3, Ali, C++:3, Java:3
+4, Salman, Java:3, Javascript:2, Python:2
+5, Sara, Python:3, Javascript:2
+6, Bilal, R:1, Python:2, C++:3
+7, Hashir, Python:1, C++:2, Assembly:1
+8, Ameer, C:2, C++:2, Javascript:2
+9, Hamza, Java:2, Visual Basic:1, Assembly:1

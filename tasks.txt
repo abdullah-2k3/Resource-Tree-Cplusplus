@@ -1,0 +1,9 @@
+1, Manager, Racket:b, C:i, C++:e
+5, Web Develpoment, javascript:i, java:e
+8, Contract Employee, Python:1, C++:2, Assembly:1
+2, Data Analytics, python:e, javascript:i
+3, Senior Developer, R:i, Python:i, C++:e
+6, Back-End Developer, Java:2, Visual Basic:1, Assembly:1
+9, Internee, C:b, C++:b, Assembly:b
+7, Assistant Developer, C:2, C++:2, Javascript:2
+4, System Programming, C:i, C++:i, assembly:e
